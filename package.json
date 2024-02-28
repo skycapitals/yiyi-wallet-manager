@@ -1,0 +1,28 @@
+{
+  "name": "yiyi-wallet-manager",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "dependencies": {
+    "aes-js": "^4.0.0-beta.5",
+    "ethers": "^6.11.1",
+    "js-tokens": "^4.0.0",
+    "loose-envify": "^1.4.0",
+    "react": "^18.2.0",
+    "tslib": "^2.4.0",
+    "ws": "^8.5.0",
+    "yiyi-dapp": "^1.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/skycapitals/yiyi-wallet-manager.git"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
